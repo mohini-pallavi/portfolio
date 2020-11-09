@@ -23,9 +23,9 @@
   background-color: rgb(58, 3, 58); 
   color: rgb(217, 247, 149); 
   cursor: pointer; 
-  padding: 15px; 
-  border-radius: 10px; 
-  font-size: 18px; 
+  padding: 5px; 
+  border-radius: 5px; 
+  font-size: 20px; 
 }
 
 #myBtn:hover {
@@ -492,6 +492,11 @@ img{
     background-color:rgb(28, 81, 150);
     margin-left: 2vw;
     margin-right: 2vw;
+  }
+  bxs-up-arrow-square{
+    height: fit-content;
+    width: fit-content;
+
   }
   #but{
     text-align: center;
